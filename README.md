@@ -27,7 +27,7 @@ Most frequent diagnoses: depression, anxiety, insomnia, OCD, bipolar disorder
 This dataset is intended to support dual-objective evaluation of LLMs in mental healthcare, enabling better alignment of medical accuracy and empathy.
 
 🧠 MHQ-MedEmo：面向医疗与情绪双重需求的心理健康问答数据集
-MHQ-MedEmo 是首个同时建模医疗信息需求与情绪支持需求的心理健康问答基准数据集，采用基于**修辞结构理论（RST）**的多层标注框架构建。
+MHQ-MedEmo 是首个同时建模医疗信息需求与情绪支持需求的心理健康问答基准数据集，采用基于修辞结构理论（RST）的多层标注框架构建。
 
 📌 数据集概述
 来源：来自中国领先的线上医疗平台 好大夫在线 的真实用户心理健康咨询。
